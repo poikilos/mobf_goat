@@ -1,4 +1,7 @@
+# mobf_goat
+This mob is for mobf (mob framework/animals mod) by Sapier.
 
-Model and texture by Nathan.S.
-Based on mobf (mob framework/animals mod) by Sapier.
-Code piece done by Sokomine.
+## License
+- Model and texture by Nathan.S. and Poikilos
+- Code piece done by Sokomine.
+- See also: <https://github.com/Sokomine/mobf_goat/issues/1>
